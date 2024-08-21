@@ -41,7 +41,7 @@ education:
   - area: Computer science and technology
     institution: Shantuo university
     date_start: 2022-09-01
-    date_end: 2026-06-31
+    date_end: 2026-06-20
     summary: |
       GPA: 3.6/5.0
       
