@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Walnut-ash
-  - icon: csdn
+  - icon: brands/csdn
     url: https://blog.csdn.net/m0_72930587?spm=1011.2415.3001.5343
   - icon: brands/instagram
     url: https://www.instagram.com/
