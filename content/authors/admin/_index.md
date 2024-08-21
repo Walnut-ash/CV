@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Walnut-ash
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://blog.csdn.net/m0_72930587?spm=1011.2415.3001.5343
   - icon: brands/instagram
     url: https://www.instagram.com/
 
