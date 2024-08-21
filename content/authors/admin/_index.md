@@ -56,7 +56,7 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-06-26
     date_end: ''
     summary: |2-
       Responsibilities include:
