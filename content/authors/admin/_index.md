@@ -39,7 +39,7 @@ profiles:
 
 education:
   - area: Computer science and technology
-    institution: Shantuo university
+    institution: Shantou university
     date_start: 2022-09-01
     date_end: 2026-06-20
     summary: |
@@ -138,4 +138,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am now an undergraduate student in Shantou University where i study in computer science and technology.
+I am currently pursuing a Bachelor’s degree in Computer Science and Technology at Shantou University.
