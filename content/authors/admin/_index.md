@@ -30,7 +30,7 @@ profiles:
   - icon: at-symbol
     url: '1613912335@qq.com'
     label: E-mail Me
-  - icon: brands/github
+  - icon: brands/csdn
     url: https://github.com/Walnut-ash
   - icon: brands/linkedin
     url: https://blog.csdn.net/m0_72930587?spm=1011.2415.3001.5343
