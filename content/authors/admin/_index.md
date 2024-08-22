@@ -52,17 +52,17 @@ education:
       - the foundation of the programming design
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: Software Engineering Intern
+    company_name: AVIT Ltd.
+    company_url: http://www.avit.com.cn/
+    company_logo: '![alt text](image.png)'
     date_start: 2024-06-26
-    date_end: ''
+    date_end: 2024-08-27
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - MySQL Configuration and Optimization: Configured MySQL dual-master and master-slave architectures to ensure real-time data synchronization, while implementing fault-tolerant mechanisms to enhance system availability.
+      - MinIO Deployment and Optimization: Deployed and fine-tuned MinIO distributed storage systems, ensuring efficiency and stability in data storage.
+      - Automated Script Development: Developed automated scripts using Ansible to streamline the configuration of MySQL and MinIO, thereby improving deployment efficiency and reducing human error.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
